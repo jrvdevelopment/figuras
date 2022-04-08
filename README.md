@@ -1,2 +1,2 @@
-# figuras
+# Figuras
 Calculadora de figuras geometricas
